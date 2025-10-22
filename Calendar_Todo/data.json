@@ -1,0 +1,92 @@
+{
+  "2025-10-15": [
+    {
+      "title": "Làm đồ án PyQt6",
+      "time": "09:00",
+      "to": "10:00",
+      "description": "Hoàn thiện phần Calendar + To-Do",
+      "priority": 8,
+      "done": true
+    },
+    {
+      "title": "Đi tập gym",
+      "time": "17:30",
+      "to": "10:00",
+      "description": "Tập ngực + tay sau",
+      "priority": 5,
+      "done": true
+    }
+  ],
+  "2025-10-16": [
+    {
+      "title": "Đi học",
+      "time": "07:00",
+      "to": "10:00",
+      "description": "",
+      "priority": 10,
+      "done": true
+    }
+  ],
+  "2025-10-17": [
+    {
+      "title": "Dọn phòng, chỉnh đàn",
+      "time": "07:30",
+      "to": "10:00",
+      "description": "",
+      "priority": 0,
+      "done": true
+    },
+    {
+      "title": "Code",
+      "time": "09:00",
+      "to": "10:00",
+      "description": "abc",
+      "priority": 0,
+      "done": true
+    },
+    {
+      "title": "Đi chợ, nấu ăn",
+      "time": "10:30",
+      "to": "10:00",
+      "description": "",
+      "priority": 0,
+      "done": true
+    },
+    {
+      "title": "Ra bài tập",
+      "time": "11:30",
+      "to": "10:00",
+      "description": "",
+      "priority": 0,
+      "done": false
+    }
+  ],
+  "2025-10-21": [
+    {
+      "title": "Thử thoi",
+      "time": "20:04",
+      "to": "21:00",
+      "description": "",
+      "priority": 0,
+      "done": false
+    }
+  ],
+  "2025-10-22": [
+    {
+      "title": "Nấu ăn",
+      "time": "10:30",
+      "to": "11:00",
+      "description": "",
+      "priority": 0,
+      "done": false
+    },
+    {
+      "title": "Ngủ",
+      "time": "11:10",
+      "to": "13:00",
+      "description": "",
+      "priority": 0,
+      "done": false
+    }
+  ]
+}
